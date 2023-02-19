@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RogerPerello
 - 🚩 At the moment, living in Barcelona
 - 📚 I have a Degree in Journalism
-- 🔭 Currently working as an editor/translator
-- 💻 Been studying Python for a few months and a bit of SQL
-- 🌱 Learning Data Science online at The Bridge
+- 🔭 Worked as an editor/translator in the past
+- 💻 Studied programming by myself
+- 🌱 Learned Data Science at THEBRIDGE
 - 📝 Interested in everything related to technology
 
 <!---
